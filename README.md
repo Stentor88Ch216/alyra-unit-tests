@@ -33,7 +33,7 @@ They verify the getters, the setters, and their "requires". They don't test the 
 
 ### VOTING TESTS
 
-The following tests verify the "setVote function" and its "requires".
+The following tests verify the "setVote" function and its "requires".
 
     ✔ sets vote
     ✔ refuses vote from non-registered voter
